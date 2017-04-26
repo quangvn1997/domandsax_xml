@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <student>
+        <name>Thắng</name>
+        <rollnumber>A0123</rollnumber>
+        <email>thang@gmail.com</email>
+        <phone>0987654321</phone>
+    </student>
+    <student>
+        <name>Ngọc</name>
+        <rollnumber>A01234</rollnumber>
+        <email>ngoc@gmail.com</email>
+        <phone>0987654322</phone>
+    </student>
+    <student>
+        <name>Trường</name>
+        <rollnumber>A0125</rollnumber>
+        <email>truong@gmail.com</email>
+        <phone>0987654323</phone>
+    </student>
+    <student>
+        <name>Tuấn Anh</name>
+        <rollnumber>A0126</rollnumber>
+        <email>tuananh@gmail.com</email>
+        <phone>0987654324</phone>
+    </student>
+    <student>
+        <name>Đạt</name>
+        <rollnumber>A0127</rollnumber>
+        <email>dat@gmail.com</email>
+        <phone>0987654325</phone>
+    </student>
+</root>
